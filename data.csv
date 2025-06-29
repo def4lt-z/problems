@@ -1,0 +1,407 @@
+﻿Chamado,Serviço,Usuário,Prioridade,Descrição,Status,Responsável
+INC-00000004598,Hardware,Theodoro Dib Peixoto,Muito Baixa,"Notebook travou igual a última vez, apresentando os mesmos problemas",Fechado,Marcelo Basílio Assunção
+INC-00000004599,Teams,Thamires Estanislau Dantas,Muito Baixa,Teams e Desktop Conector Não estão abrindo na minha máquina,Fechado,Matheus Camilo Pereira
+INC-00000004600,Teams,Marcos Paulo Amaral Zanandreis Teixeira,Muito Baixa,Não consigo acessar os Produtos Microsoft,Fechado,Matheus Camilo Pereira
+INC-00000004601,Repositório de arquivos - SharePoint e OneDrive,Hugo de Fazio Aguiar,Muito Baixa,Não estou conseguindo abrir arquivo do Onedrive,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004602,Hardware,Tatiana Braga Soares,Baixa,Meu notebook desligou e agora não liga mais.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004603,NetSuite - Faturamento e Cancelamento,Claudia Cristina Ferreira do Amaral,Alta,"Precisamos cancelar o lançamento INV162 - A NF foi rejeitada pelo cliente, mas o processo foi depois do período contábil, e com isso foi necessário abrir processo administrativo na prefeitura para o cancelamento. A Prefeitura cancelou o documento em 02/01/2025. Ao tentarmos cancelar o INV162 no NetSuite a ação não é concluída e contabilizada pois a Prefeitura rejeita a certificação do documento, devido a ele já estar cancelado no site. Na rotina de cancelamento do documento estão registradas as transações de números 12, 13 e 14. https://7337766.app.netsuite.com/app/accounting/transactions/custinvc.nl?id=10287 https://7337766.app.netsuite.com/app/accounting/transactions/transactionlist.nl?Transaction_TYPE=CuTrSale133",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004604,Hardware,Éricka Gonçalves de Paula Menegaz,Muito Baixa,Microfone do meu notebook BLS-ITSM-01106 apenas não consigo ser ouvida com clareza em reuniões no Teams ou outro software de meeting.,Fechado,Marcelo Basílio Assunção
+INC-00000004605,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Muito Baixa,Controle do fluxo de processo de desenhos de engenharia - ELFA - na orçamentação não tem o formato 3D. Os mesmos formatos do GED devem constar na orçamentação.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004606,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Muito Baixa,Controle do fluxo de processo de desenhos de engenharia - ELFA  - o botão Doc será emitido? na Orçamentação para os documentos que são Modelagem 3D deve ser de preenchimento obrigatório.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004607,e-social - Transmissão,Clecio de Sousa Santos,Baixa,"Ao tentar transmitir as informações do IRRF e INSS hoje, enfrentei o seguinte problema com o meu computador: (em anexo) Preciso que essa situação seja avaliada com urgência, pois o prazo para transmissão das informações encerra amanhã, 14/01/2024.
+
+Informo que tanto eu e Karine estamos com o mesmo problema.",Fechado,Matheus Camilo Pereira
+INC-00000004608,NetSuite - Conciliação Bancária,Narrayane Martins Guimarães,Baixa,"Prezados, bom dia! Não estamos conseguindo criar Multa e Juros sobre compras, pois a requisição fica com status ""Pendente"". Fizemos 3 tentativas ontem pela manhã e aguardamos até a parte da tarde, porém sem sucesso. Excluímos as tentativas e fizemos um novo teste mas até o momento continua com o mesmo status. Peço auxílio.",Fechado,Matheus Camilo Pereira
+INC-00000004609,Hardware,Theodoro Dib Peixoto,Baixa,Notebook travou inviabilizado o uso.,Fechado,Marcelo Basílio Assunção
+INC-00000004610,Teams,Ana Paula Machado de Souza Meira,Baixa,"Foi identificado que o aplicativo Read.ai, integrado ao Microsoft Teams, está sendo utilizado para registrar e analisar a fala dos clientes durante as reuniões, com o objetivo de gerar relatórios para as Gerências. No entanto, foi constatado que essa ferramenta utiliza inteligência artificial pública, o que configura uma violação das políticas internas de proteção de dados e diretrizes de TI da empresa. O uso do software não foi homologado e compromete a segurança e a privacidade dos dados coletados, gerando riscos para a conformidade com as regulamentações de proteção de dados.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004611,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Muito Baixa,"1 - Documento emitido com a Finalidade H - Cancelado/3 - PARA CANCELAMENTO (OBSOLETAR), não pode subir revisão via gestão de mudanças e planejamento. 2 - Criar regra no GED considerando a numeração cliente, para que documento emitido como cancelado em um projeto não possa ser incluído em outro projeto. 3 - Documento emitido como Cancelado com retorno ""Aprovado com Comentários"" ou ""Reprovado"" ou ""Não aprovado"" deve seguir o fluxo novamente.",Suporte Inicial - Incidente,Fernando Marconi Veloso Ribeiro
+INC-00000004612,Hardware,Alexia Alcântara Ramos,Muito Baixa,Cabo HDMI com problema,Fechado,Marcelo Basílio Assunção
+INC-00000004613,Teams,Lucas Terra Duarte,Muito Baixa,Não estou conseguindo conectar nem no teams e nem no one drive,Fechado,Marcelo Basílio Assunção
+INC-00000004614,Acesso (conexão) Internet Barcarena,Mielly Adriana Moraes,Muito Alta,"Usuário Mielly relatou via teams que o acesso de internet de Barcarena está sem internet, Indisponibilidade total do serviço.",Fechado,Marcelo Basílio Assunção
+INC-00000004615,Acesso (conexão) Internet Belo Horizonte,Éricka Gonçalves de Paula Menegaz,Baixa,"O visitante acessou a rede de terceiros sem solicitar o token, utilizando apenas a senha que estava impressa no papel, efetuando o login diretamente.",Fechado,Matheus Camilo Pereira
+INC-00000004616,Microsoft Outlook,Adriano Alves da Rocha,Muito Baixa,"não consigo enviar e-mail para cliente fora da blossom. 
+Tentei seguir as informações no e-mail de resposta sem sucesso.",Fechado,Marcelo Basílio Assunção
+INC-00000004617,Acesso (conexão) Internet Belo Horizonte,Matheus Wardi Cruz Andrade,Muito Baixa,Gateway On-premisses - Ao tentar logar no gateway on-premisses aparece a mensagem de erro conforme o anexo.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004618,ACC - Autodesk Construction Cloud,Lucas Terra Duarte,Muito Baixa,O connector não está abrindo. Foi sugerido pelo ED para desinstalar e instalar de novo.,Fechado,Matheus Camilo Pereira
+INC-00000004619,Microsoft Power BI,Matheus Camilo Pereira,Baixa,"Os dashboards de acompanhamento de chamados encontram-se desatualizados. Especificamente, os dashboards de Incidentes Abertos e Requisições de Serviço Abertas estão exibindo dados referentes ao dia anterior, o que está dificultando o acompanhamento dos chamados.",Fechado,Guilherme Dias Iannotti
+INC-00000004620,Hardware,Márcia de Paula Wiesen,Muito Baixa,Equipamento muito lento e algumas vezes não aceita o comando,Fechado,Matheus Camilo Pereira
+INC-00000004621,Hardware,Lucas Terra Duarte,Muito Baixa,Limpar disco C. Os apps estão fechando sozinho,Fechado,Marcelo Basílio Assunção
+INC-00000004622,Microsoft 365 - Plano Businnes,Éricka Gonçalves de Paula Menegaz,Muito Alta,"Na preparação do Workshop da Blossom e Intertechne tivemos diversos problemas na confecção colaborativa da apresentação do Workshop em PowerPoint. Segue um passo a passo do que ocorreu: (1) Eu criei a primeira versão do ppt, compartilhei com a Márcia, o Fred e o Matheus Barbian. (2) A Márcia adicionou os slides delas com imagens e animações, mas quando eu fui acessar, o arquivo virou read only, inclusive para mim. Eu não consegui alterar a configuração de read only. As imagens e animações dos slides da Márcia deixaram de aparcer/funcionar. (3) Márcia refez o processo 3x (4) Eu criei um arquivo novo, colei todos os slides neste arquivo e salvei no ITSM. Ele funcionou. A Márcia refez as imagens e animações. Quando eu entrei no arquivo, tudo se perdeu novamente, e o arquivo virou read only novamente e não conseguimos fazer funcionar. (5) Márcia teve que fazer tudo novamente no disco rígido do notebook dela, compactar o arquivo (porque tinha 35 Mb) e me enviar por e-mail. ------- Outro problema: (1) O Fred fez slides em outro arquivo, que era cópia do ppt original que eu criei (o mesmo acima) (2) O Fred me enviou o arquivo pelo Teams (3) Quando eu abria ou fazia download do arquivo do Fred, simplesmente não aparecia para mim os slides que o Fred incluiu (4) Tentamos gerar novo arquivo no notebook do Fred, copiar os slides, enviar para mim e, novamente, eu não consegui ver o conjunto de slides dele. ------------",Fechado,Marcelo Basílio Assunção
+INC-00000004623,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Muito Baixa,"Controle do fluxo de processo de desenhos de engenharia - ELFA -
+
+contador do meu timesheet está informando que tem um dia sem apontamento, mas todos os dias estão apontados.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004624,Teams,Augusto dos Reis Silveira Alves,Muito Baixa,Não esta saindo o som nos fones . instalação do drive para uso de fone de ouvido,Fechado,Matheus Camilo Pereira
+INC-00000004625,Acesso (conexão) Internet Belo Horizonte,Arthur Brito Nunes Diniz,Muito Baixa,Internet a cabo não conecta. Wi-Fi muito lento.,Fechado,Marcelo Basílio Assunção
+INC-00000004626,Foxit,Marco Túlio da Silva Torres,Muito Baixa,Meu programa de PDF não está respondendo. Não esta abrindo o PDF feito.,Fechado,Matheus Camilo Pereira
+INC-00000004627,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Muito Baixa,"Controle do fluxo de processo de desenhos de engenharia - ELFA - o cadastro de finalidade de retorno para Anglo Aconex precisa ser configurado conforme o cadastro Anglo, para que documento Aprovado e Cancelado não passe pelo módulo da qualidade. Exemplo: projeto BL1091-0023",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004628,Microsoft 365 - Plano Businnes,Reginaldo Soares Barbosa,Muito Baixa,tela de proteção de informação não estou conseguindo gerar pdf para emissão de arquivos.,Fechado,Matheus Camilo Pereira
+INC-00000004629,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Muito Baixa,Controle do fluxo de processo de desenhos de engenharia - ELFA  - As aprovações constantes no BI pro meu usuário não aparecem no Elfa.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004630,Microsoft 365 - Plano Businnes,Rock Brunno Moreira da Silva,Baixa,"Recebemos este alerta de risco do usuário Rock Brunno. As credenciais dele parecem ter sido descobertas/vazadas. Houve tentativas de acesso na conta dele, porém estas foram bloqueadas por conta das regras de acesso condicional.
+
+É recomendado que façam o reset de senha desta conta",Fechado,Matheus Camilo Pereira
+INC-00000004631,Teams,Rosemary Rodrigues Maia,Muito Baixa,não tem como ligar ao fone .sem conseguir falar no teams,Fechado,Matheus Camilo Pereira
+INC-00000004632,ELFA,Janine Carla Viana Pereira,Muito Baixa,"Documento BL1091-0023-CC-ETE-1000 - Aprovado, no módulo da qualidade. - Temos um projeto novo da Anglo que será tramitado por outro sistema, criamos uma nova estrutura para finalidade de retorno (Anglo-Aconex-Não utilizar). O problema pode estar vinculado a está nova estrutura criada.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004633,Hardware,Tainá Correa Cravo,Muito Baixa,"Venho, por meio deste, informar que o celular corporativo que utilizo foi furtado enquanto me dirigia à academia na última segunda-feira (20/01). Já realizei o Boletim de Ocorrência online, que segue em anexo para registro. Também estou em contato com um profissional (Policial Civil) para tentar rastrear e recuperar o aparelho utilizando o IMEI.
+Gostaria de pedir desculpas pelo ocorrido e, para minimizar os transtornos, pergunto se seria possível solicitar apenas um novo chip corporativo. Pretendo utilizá-lo no meu celular pessoal, evitando a necessidade de portar dois aparelhos e reduzindo o risco de uma situação similar. 
+•	Informações do Celular Corporativo:
+Número: (91) 99127-8297
+IMEI 1: 352800823919276
+IMEI 2: 352800823919284
+Fico à disposição para que sejam realizados os procedimentos e quaisquer esclarecimentos necessários após o acontecimento.",Fechado,Matheus Camilo Pereira
+INC-00000004634,Hardware,Matheus Natan Mendes Soares,Muito Baixa,Mouse com os seguintes problemas: Duplo click com o botão esquerdo e problema no scroll.,Fechado,Matheus Camilo Pereira
+INC-00000004635,Microsoft Power BI,Denise Mariano de Souza,Muito Baixa,"BI de vagas - Não conseguimos atualizar os dados do BI de vagas, ele está desatualizado e não está puxando as informações corretamente.",Fechado,Matheus Wardi Cruz Andrade
+INC-00000004636,Revit 2024,Lucas Terra Duarte,Muito Baixa,"Quando vou abrir modelo, o revit fecha",Fechado,Marcelo Basílio Assunção
+INC-00000004637,Microsoft 365 - Plano Businnes,Rock Brunno Moreira da Silva,Muito Baixa,"Problema na conta Blossom por conta de atualização da segurança.
+Estava com um problema na minha conta principal da Blossom por conta de uma atualização na segurança de todas as maquinas, o problema já foi alinhado e sanado. agradeço a Matheus e a equipe pelo apoio.",Fechado,Matheus Camilo Pereira
+INC-00000004638,Microsoft 365 - Plano Businnes,Rodison Damasceno Menezes,Baixa,não está conseguindo acessar o sharepoint. Estou abrindo chamado para ele.,Fechado,Marcelo Basílio Assunção
+INC-00000004639,Microsoft Power BI,Clecio de Sousa Santos,Média,"Desde o dia 24/01/2025, não estou conseguindo acessar o relatório do Power BI para exportar a planilha de profissionais necessária para atualização no NETSUITE.
+
+Ressalto que essas informações são extremamente importantes, e a falta delas impacta diretamente os demais departamentos que utilizam o sistema Oracle. Por isso, peço que seja regularizado com urgência.",Fechado,Matheus Wardi Cruz Andrade
+INC-00000004640,Microsoft 365 - Plano Businnes,Islanderson Marcos de Oliveira Neto,Muito Baixa,"Gostaria de verificar se tem como dar uma olhada no forms de solicitação de EPI , que algumas solicitaçõe realizadas não estão aparecendo na lista de EPI no sharepoint solicitado conforme em anexo, foi solicitado em 29.01.2025 e no sharepoint não esta aparecendo",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004641,Acesso (conexão) Internet Belo Horizonte,Éricka Gonçalves de Paula Menegaz,Baixa,Usuários Terceiros não estão conseguindo acessar a rede Wi-FI em Belo Horizonte.,Fechado,Matheus Camilo Pereira
+INC-00000004642,Teams,Renata Karla Reis Campos,Muito Baixa,Teams não executa. Erro de inicialização,Fechado,Marcelo Basílio Assunção
+INC-00000004643,Teams,Thamires Estanislau Dantas,Muito Baixa,Não quer abrir,Fechado,Marcelo Basílio Assunção
+INC-00000004644,Microsoft 365 - Plano Businnes,Sheilla Araujo,Média,"Microsoft FORMS
+Olá! Identifiquei que o gestor Marcelo registrou a mudança de área do profissional Eduardo Machado via Forms, mas não recebemos a atualização. 
+
+Além disso, percebi que a planilha de respostas não é atualizada desde agosto/2024. Poderiam verificar e ajustar, por gentileza? 
+
+Informações adicionais: Olá! Estou reforçando que o item 5 – disciplina – não consta a disciplina GG nem nenhuma do SGA. Peço, por gentileza, que realizem a atualização o mais breve possível. Conto com vocês!",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004645,Hardware,Cauê Nogueira de Castro,Muito Baixa,Mouse esta com defeito,Fechado,Marcelo Basílio Assunção
+INC-00000004646,Timesheet - ELFA,Matheus Wardi Cruz Andrade,Baixa,"Os apontamentos do timesheet que são feitos nas disciplinas GP, GE, DC não estão aparecendo para o aprovador apontar no timesheet. 
+Informações adicionais: Pode ser que tenha algum erro no código quando ativa o líder da disciplina ou não.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004647,Microsoft 365 - Plano Businnes,Rogério Ratto Pereira,Baixa,Não estou conseguindo acessar os aplicativos Blossom,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004648,Teams,Luciano Barsi,Muito Baixa,Venho tendo problemas no Teams ao tentar me conectar.,Fechado,Marcelo Basílio Assunção
+INC-00000004649,Teams,Renata Karla Reis Campos,Muito Baixa,O app do Teams não abre.,Fechado,Marcelo Basílio Assunção
+INC-00000004650,AutoCAD,Diego Falqueto de Lima,Muito Baixa,"O Autocad não seleciona automaticamente uma fonte que seja similar ao usado pelo criador do arquivo. Tentei colar as fontes de um colega, mas não tenho permissão.",Fechado,Marcelo Basílio Assunção
+INC-00000004651,Hardware,Márcia de Paula Wiesen,Baixa,"Na semana passada houve esta falha de tela negra e ruido estridente. Desliguei o latop por 2 min e voltou a funcionar normalmente. Ontem apresentou esta falha e hje, já por 2 vezes, na parte da manhã e agora, à tarde.",Fechado,Marcelo Basílio Assunção
+INC-00000004652,AutoCAD,Derek Rafael de Oliveira,Baixa,"O Serviço afetado é: AutoCAD 2024 
+Meu AutoCAD está apresentando a mensagem de limite de dispositivos excedidos, com isso não consigo abrir arquivos dwg indispensáveis para a realização de minhas atividades.",Fechado,Marcelo Basílio Assunção
+INC-00000004653,Teams,Thamires Estanislau Dantas,Muito Baixa,Audio do microfone não funciona no Teams.,Fechado,Marcelo Basílio Assunção
+INC-00000004654,Repositório de arquivos - SharePoint e OneDrive,Rafael Oliveira Patrus Bello,Muito Alta,"Toda a pasta ""07_Propostas Técnicas"" do diretório do ""EXECUÇÃO"" foi excluído da rede. Identificamos que as exclusões estão sendo feitas pelo usuário do Ricardo Arthur Reis Napoleão. O colaborador não sabe por qual motivo os arquivos estão sendo excluídos. É possível que outros diretórios tenham sido afetados, mas só identifiquei exclusões na pasta supracitada. Sugiro verificar outras possíveis exclusões acidentais.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004655,Repositório de arquivos - SharePoint e OneDrive,Éricka Gonçalves de Paula Menegaz,Muito Alta,"As exclusões iniciaram no dia 04/02/2025 a partir de 14:40. E desde então arquivos foram sendo excluídos. Ainda está acontecendo. Foi feito restore do backup mas os arquivos continuaram a ser excluídos. Nem todos os arquivos e pastas estavam na lixeira. Usuários afetados até aqui: Ricardo Napoleão, Rafael Belo, e Vinícius",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004656,Hardware,Rafael Ivo,Muito Baixa,"Computador, apesar de estar com o cabo de rede conectado, está se conectando somente via wireless. Nas chamadas via Teams, fica muito instável. Ao pedir para corrigir problema aparece mensagem indicando que o cabo pode estar desconectado.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004657,Repositório de arquivos - SharePoint e OneDrive,Márcia Aparecida Cunha Alves,Muito Baixa,Não estou conseguindo compartilhar arquivos para pessoas da Anglo e outros,Fechado,Matheus Camilo Pereira
+INC-00000004658,Teams,Márcia Aparecida Cunha Alves,Muito Baixa,"No Teams, quando eu entro em EQUIPES, não me aparece mais todas as que eu tinha criado ou que participado, dessa forma, alguns registros importantes como arquivos, postagem dos participantes, etc.. não estão mais disponíveis.",Fechado,Marcelo Basílio Assunção
+INC-00000004659,Teams,Thamires Estanislau Dantas,Muito Baixa,Teams e desktop connector Não estão abrindo,Fechado,Matheus Camilo Pereira
+INC-00000004660,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Muito Baixa,"Controle do fluxo de processo de desenhos de engenharia - ELFA - Ao baixar a GRD do Elfa, ela vem com rótulo ""Interno"", precisamos que documentos baixados do Elfa (GRD e Documentos da engenharia) sejam publicos, visto que o que baixamos do Elfa é para envio pro cliente.",Fechado,Marcelo Basílio Assunção
+INC-00000004661,Hardware,Éricka Gonçalves de Paula Menegaz,Muito Baixa,Mouse não funciona botão direito,Fechado,Marcelo Basílio Assunção
+INC-00000004662,AutoCAD,Pedro Henrique Silva Lodi,Muito Baixa,CAD não abre e apresenta mensagem de FATAL ERROR,Fechado,Matheus Camilo Pereira
+INC-00000004663,Hardware,Denise Mariano de Souza,Muito Baixa,"Notebook esta apresentando lentidão extrema, solicito que seja formatado.",Fechado,Matheus Camilo Pereira
+INC-00000004664,Repositório de arquivos - SharePoint e OneDrive,Maria Paula Brandão Brito Barbian,Muito Baixa, Aparece aviso de problema de sincronização e o volume da Lixeira esta aumentando.,Fechado,Matheus Camilo Pereira
+INC-00000004665,Microsoft 365 - Plano Businnes,José Francisco Corrêa,Muito Baixa,"Notificação de bloqueio do Windows defender
+Solicito a verificação de meu laptop o Windows defender está reportando a todo momento, conteúdo bloqueado pelo administrador da TI, referente a um site mmop.com, preciso de apoio para certificar o que está ocorrendo.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004666,NetSuite - Faturamento e Cancelamento,Claudia Cristina Ferreira do Amaral,Baixa,"Precisamos emitir uma carta de correção de um documento fiscal emitido INV654 - mas esta funcionalidade do sistema não foi ensinada nos treinamentos. O perfil de Analista de Faturamento não tem acesso. Tentamos com o perfil de administrador e também não conseguimos evoluir no preenchimento do formulário. O campo ""cliente"" não abre para edição e manda selecionar uma ""entrada""... mas não localizamos este campo.",Fechado,Guilherme Dias Iannotti
+INC-00000004667,Repositório de arquivos - SharePoint e OneDrive,Sheilla Araujo,Baixa,"Gentileza  auditar os acessos a seguir:
+
+- Todos os acessos a arquivos SharePoint e OneDrive no período de 01.01.2025 até a data atual da usuária falves@blossomconsult.com;
+- Todas as alterações de Rótulo de Confidencialidade ocorridas no período de 01.01.2025 até a data atual da usuária falves@blossomconsult.com;  
+
+Salvar os arquivos com o Rótulo “Confidencial – ITSM” no diretório SO\Incidentes\INC-XXXXXXXXX e me comunicar para que seja disponibilizado à área de Gente e Gestão.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004668,Teams,Tatiana Braga Soares,Muito Baixa,"O fone da Dayse Guerra não está funcionando para falar, mas ela consegue ouvir. Acredito que seja necessário ajustar algo no computador. Solicito apoio para a configuração.",Fechado,Matheus Camilo Pereira
+INC-00000004669,Revit 2024,Isla Vitória Carvalho Lopes,Muito Baixa,Não consigo acessar os modelos da nuvem do Revit,Fechado,Matheus Camilo Pereira
+INC-00000004670,NetSuite - Faturamento e Cancelamento,Narrayane Martins Guimarães,Média,"O PVA informou erro ao validar o total de débitos e o total de créditos quando comparado a soma dos lançamentos de débitos ou de créditos em períodos de determinadas contas
+
+A conta 1.1.1.01.0002 possui saldo inicial 1.682,23.
+No período de maio ela recebeu dois lançamentos de débito com total de R$5974,01, mas a informação gerada no arquivo foi de R$6.000,00.
+A mesma conta recebeu quatro lançamentos de crédito com total de R$453,52, porém a informação gerada no arquivo é de R$479,51.",Fechado,Guilherme Dias Iannotti
+INC-00000004671,NetSuite - Fechamento Contábil,Narrayane Martins Guimarães,Alta,"O PVA tem apresentado erro no registro I200, devido a divergências apresentadas no registro filho, I250
+
+O lançamento contábil 20240508000016419 possui valor de lançamento 513,49, porém o registro filho I250 está apresentando além dos 513,49 devido, o valor de 114,78 de outro lançamento contábil.
+E o lançamento contábil 20240508000016420 que deveria apresentar o registro filho com débito e crédito de 114,78, é apresentado também o débito e o crédito de 513,49.
+O registro I200 sempre apresentará o resultado da soma das partidas que tenham o mesmo indicador, débito ou crédito.",Fechado,Guilherme Dias Iannotti
+INC-00000004672,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Baixa,"Controle do fluxo de processo de desenhos de engenharia - ELFA 
+
+Esse incidente parece ser relacionado a um sistema de gerenciamento de processos ou documentos de engenharia, mais especificamente, ao controle do fluxo de processos de desenhos de engenharia para a ELFA. O incidente foi registrado com um código de erro e inclui a solicitação de retorno de documentos específicos para a GRD, parece que houve algum tipo de problema no fluxo de documentos de engenharia, possivelmente relacionado ao envio ou processamento desses documentos.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004673,Microsoft 365 - Plano Businnes,Cauê Nogueira de Castro,Muito Baixa,"One Drive
+Repositório de arquivos - SharePoint e OneDrive",Fechado,Marcelo Basílio Assunção
+INC-00000004674,Hardware,Islanderson Marcos de Oliveira Neto,Muito Baixa,"Mielley esta elgando que seu computadro não esta funcionando da forma correta, com dificuldade de eneviar email, teams etc, favor verficar com certa urgência, pois ela esta participando de processo de auditoria da Hydro",Fechado,Matheus Camilo Pereira
+INC-00000004675,Microsoft Power BI,Denise Mariano de Souza,Média,"Planilha de vagas BI .As novas vagas em aberto não estão aparecendo na planilha. Essa planilha é primordial para o processo de recrutamento e seleção, precisamos sanar o problema com urgência.",Fechado,Matheus Wardi Cruz Andrade
+INC-00000004676,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Muito Baixa,Controle do fluxo de processo de desenhos de engenharia - ELFA  -  Controle do fluxo de processo de desenhos de engenharia - ELFA.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004677,Repositório de arquivos - SharePoint e OneDrive,Silvania Lima da Silva Vieira,Muito Baixa,Sincronismo,Fechado,Matheus Camilo Pereira
+INC-00000004678,Foxit,Felipe Ferreira de Lima,Muito Baixa,Não estou conseguindo abrir PDFs. Solicita a instalação/atualização de direitos do windos.,Fechado,Matheus Camilo Pereira
+INC-00000004679,Hardware,Rosemary Rodrigues Maia,Muito Baixa,não esta ligando a tela do computador,Fechado,Matheus Camilo Pereira
+INC-00000004680,e-mail,Leticia Cristina de Abreu Dias,Muito Baixa,"meu e-mail não esta abrindo , preciso dele urgente para trabalhar",Fechado,Matheus Camilo Pereira
+INC-00000004681,NetSuite - Faturamento e Cancelamento,Claudia Cristina Ferreira do Amaral,Alta,"Classificação: Pedido ao Recebimento
+
+Serviço: Faturamento e Cancelamento
+
+Descrição: Preciso cancelar 3 documentos fiscais (NF INV669 - INV663 - INV660), mas aparece erro de cálculo de imposto.",Fechado,Guilherme Dias Iannotti
+INC-00000004682,Teams,Márcia Aparecida Cunha Alves,Muito Baixa,"O teams está instável, fecha sozinho, trava a tela, mesmo a internet estando ok. Quando vou compartilhar a minha tela, apresenta tela preta (erro intermitente).",Fechado,Marcelo Basílio Assunção
+INC-00000004683,ELFA,Alexia Alcântara Ramos,Muito Baixa,"O Serviço afetado é: ELFA DOC
+O código de erro (se houver) é: • Liberar elfa – parte curriculo no padrão ( somente essa opção. para setor comercial) Rafael Patrus | Cauã siqueira | Jefferson figueiredo| Vinicius Vasconcelos • Liberar elfa – parte do banco ( somente essa opção para setor fincanceiro) Simone mendes| Claudia Amaral| Luciano Barsi) • Retirar a opção BL da parte de cadastro ( não ultilizamos a função) • Acrescentar cliente Samarco-MG na aba cliente • Colocar na aba pessoais o “numeração de calça” • Colocar na aba cadastro “ data de nascimento”",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004684,Hardware,Rosemary Rodrigues Maia,Muito Baixa,Tela não liga e não apresenta imagem.,Fechado,Matheus Camilo Pereira
+INC-00000004685,Repositório de arquivos - SharePoint e OneDrive,Ana Beatriz da Silveira Bessas,Muito Baixa,maquina com lentidão e não sincronizando arquivos...,Fechado,Marcelo Basílio Assunção
+INC-00000004686,Repositório de arquivos - SharePoint e OneDrive,Felipe Ferreira de Lima,Muito Baixa,"O Serviço afetado é: Sem acesso aos PDFs de Padrão de Projeto (PP) e Não sincronização de arquivos. 
+
+Informações adicionais: 1. Minha máquina não está sincronizando corretamente os arquivos da rede. 
+2. Não estou conseguindo ter acesso aos PPs, restrição do Fox Read em relação aos rótulos (interno/público)",Fechado,Marcelo Basílio Assunção
+INC-00000004687,Microsoft Outlook,Rafael Vitarelli Adaid Campolina,Muito Baixa,"O Serviço afetado é: E-mail 
+O código de erro é: Falha no upload de e-mail devido a um problema de permissão.  Esse problema acontece ao incluir o e-mail do projeto (build) como cópia.",Fechado,Marcelo Basílio Assunção
+INC-00000004688,Oracle NetSuite,Clecio de Sousa Santos,Alta,"Tentei subir uma atualização como sempre faço, entretanto, constou erro.",Fechado,Guilherme Dias Iannotti
+INC-00000004689,Automação Formulário,Guilherme Dias Iannotti,Baixa,"Boa tarde,
+
+Peço verificar porque não foi enviado o e-mail automático referente à RDM 196.
+
+Foi preenchido o formulário e registrada a RDM na lista, mas o e-mail automático não foi enviado.",Fechado,Matheus Camilo Pereira
+INC-00000004690,Teams,Paula Martins Azzi de Carvalho,Muito Baixa,Audio do Teams não está funcionando - Euro Advíncula Abreu,Fechado,Marcelo Basílio Assunção
+INC-00000004691,Teams,Hugo de Fazio Aguiar,Muito Baixa,"Em reuniões o som de quem ouve, tem estado chiado e ruim.",Fechado,Marcelo Basílio Assunção
+INC-00000004692,Hardware,Bruno Vieira Rodrigues,Baixa,Pedido para reiniciar unidade para reparar erro.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004693,Microsoft Outlook,Narrayane Martins Guimarães,Alta,"Prezados, bom dia! Recebi um e-mail informando que o contasapagar@blossomconsult.com precisa ser autenticado novamente. Tentei corrigir mas não tive êxito. Peço auxílio.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004694,3DS Max 2024,Geovana dos Santos,Muito Baixa,Data e Hora Errados,Fechado,Marcelo Basílio Assunção
+INC-00000004695,Blossom Digital,Aidê Graciele Vicente Jesus,Muito Baixa,Perdeu o acesso ao sharepoint da Blossom.,Fechado,Marcelo Basílio Assunção
+INC-00000004696,Oracle NetSuite,Narrayane Martins Guimarães,Média,"Prezados, o registo F600 não está sendo apresentado nos arquivos EFD Contribuições.",Fechado,Guilherme Dias Iannotti
+INC-00000004697,Microsoft Outlook,Clecio de Sousa Santos,Baixa,"Não estou conseguindo abrir solicitação de agendamento de exame médico. Quando clico, aparece o erro abaixo:",Fechado,Marcelo Basílio Assunção
+INC-00000004698,Microsoft Excel,Marília Carvalho Salgado Penido Salles,Muito Baixa,Problema no Excel e no fone de ouvido,Fechado,Matheus Camilo Pereira
+INC-00000004699,Microsoft Outlook,Maria Paula Brandão Brito Barbian,Muito Baixa,Não aparece a Sala circular para fazer agendamento,Fechado,Marcelo Basílio Assunção
+INC-00000004700,Oracle NetSuite,Narrayane Martins Guimarães,Alta,"Classificação: Localização Brasileira
+
+Serviço: Livros Fiscais
+
+Descrição: Prezados, o relatório de apuração de ISS da Filial Barcarena está sendo gerado zerado. Peço apoio na resolução do problema.",Fechado,Guilherme Dias Iannotti
+INC-00000004701,Microsoft 365 - Plano Businnes,Luma de Oliveira Araújo,Muito Baixa,"Acesso ao E-mail e ao Teams  - : A colaboradora Tayná trocou de telefone, não está conseguindo acessar o autenticador para ter acesso ao e-mail e ao teams.",Fechado,Marcelo Basílio Assunção
+INC-00000004702,Teams,Lelis Gomes Rosa,Muito Baixa,fone de ouvido nao funciona no teams,Fechado,Matheus Camilo Pereira
+INC-00000004703,Hardware,Rosemary Rodrigues Maia,Muito Baixa,Não esta ligando o computador do Pedro Henrique Soares Ramos,Fechado,Marcelo Basílio Assunção
+INC-00000004704,Microsoft 365 - Plano Businnes,Rodison Damasceno Menezes,Muito Baixa,Problema de acesso -A Kenya perdeu todo o acesso ao sistema Blossom e não tem o autenticator no celular. ela pediu para ligar 31 9 9212-0044,Fechado,Matheus Camilo Pereira
+INC-00000004705,Hardware,Renato de Conti Gomes,Média,"Simone, Ana Cláudia, Carlos, ... a tela apaga, volta, fica só a lixeira, perde-se o trabalho e quando abre os ícones estão todos fora do lugar. Aconteceu agora e a penúltima vez foi quando colocaram a tela das mulheres....",Fechado,Matheus Camilo Pereira
+INC-00000004706,Hardware,Silmara Cristina Alves da Cunha,Muito Baixa,"O notebook apresenta tela azul e trava todas as funções, só retorna após reiniciar.",Fechado,Matheus Camilo Pereira
+INC-00000004707,Sistema Operacional,Luis Filipe Pinheiro Nunes Baia,Muito Baixa,Assim que o aplicativo da calculadora é aberto ele fecha automaticamente.,Fechado,Matheus Camilo Pereira
+INC-00000004708,Acrobat Reader,Felipe Ferreira de Lima,Muito Baixa,"Não consigo acesso/editar o arquivo em PDF baixado do ELFA (BL1091-0023-ME-LEI-1000-CV). Ao abrir dom Foxit consigo visualizar o arquivo porém não consigo editar (etapa necessária a verificação/emissão de documentos). Já pelo Adobe, o arquivo não abre, fica apenas com tela preta. Este arquivo abre normalmente em leitores web. A primeira versão deste arquivo foi criado em minha máquina e carregada no ELFA, um segundo colaborador baixou e acrescentou comentários, caberia ao fluxo agora eu verificar e marcar os comentários feitos.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004709,e-mail,Simone Cardoso de Medeiros,Muito Baixa,"O Clecio tentou enviar um e-mail para o contas a pagar e não recebemos. Para fazer um teste, também tentei mandar um e-mail e não recebemos e voltou a mensagem acima.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004710,Microsoft Outlook,Carlos Maurício de Oliveira Monteiro,Baixa,O Office não está carregando a licença. Para abrir arquivos tenho de entrar em modo de segurança.,Fechado,Marcelo Basílio Assunção
+INC-00000004711,Microsoft 365 - Plano Businnes,Bruno Vieira Rodrigues,Baixa,Esqueci meu telefone não consigo validar meu login no e-mail.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004712,Hardware,Cristiano Cortezzi,Muito Baixa,Não a espaço suficiente na unidade C,Fechado,Marcelo Basílio Assunção
+INC-00000004713,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Baixa,"Timesheet - ELFA 
+Alterar o apontamento do Arthur Brito Diniz dos dias 10/03 e 11/03 para Treinamento ""Modelagem e Simulação de Transitórios Hidráulicos com Bentley HAMMER",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004714,Hardware,Derek Rafael de Oliveira,Muito Baixa, O microfone do notebook não funciona sem uso do fone. Poderiam me ajudar nessa questão? Muito obrigado!!!,Fechado,Marcelo Basílio Assunção
+INC-00000004715,Microsoft 365 - Plano Businnes,Vinícius Jorge de Vasconcelos,Muito Baixa,"Minha máquina está com o horário errado, e não consigo sincronizar",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004716,Hardware,Rodrigo Alves de Oliveira,Muito Baixa,"A porta USB parou de funcionar, com isso estou sem o mouse",Fechado,Marcelo Basílio Assunção
+INC-00000004717,NetSuite - Faturamento e Cancelamento,Claudia Cristina Ferreira do Amaral,Alta,"Ao enviar um documento fiscal para certificação dá o seguinte erro no documento eletrônico: A requisição para o web service da autoridade fiscal foi bem-sucedida, mas o documento eletrônico foi rejeitado pela autoridade fiscal. Leia a resposta da autoridade fiscal: O documento XML de entrada do serviço esta fora do padrao especificado.",Fechado,Guilherme Dias Iannotti
+INC-00000004718,Acesso (conexão) Internet Belo Horizonte,Pedro Andrade Massula,Baixa,Equipamento sem acesso a internet,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004719,"Autodesk - Architecture, Engineering & Construction Collection",Rock Brunno Moreira da Silva,Muito Baixa,"Meu software não esta executado, acho q esta dando algum conflito na parte de execução.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004720,Microsoft Power BI,Alencar da Costa Cardoso,Média,"No BI de ""Horas pendentes por responsável"" temos novamente: ""Job Leader indefinido"" e ""Coordenador por localidade indefinido.",Fechado,Bruna Cardoso de Souza
+INC-00000004721,Microsoft 365 - Plano Businnes,Christhianne Espíndola Couto Nascimento Cordeiro,Baixa,"Autenticador Microsoft 
+Não recebo o código enviado do link da Hydro no Autenticador",Fechado,Marcelo Basílio Assunção
+INC-00000004722,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Muito Baixa,"Controle do fluxo de processo de desenhos de engenharia - ELFA  - Arquivo, Inserir no motivo do retorno para o Líder as opções abaixo: - Sem documento nativo - Logo - Rótulo - Marcação de Revisão - Nome do arquivo - Assinatura - Cad licenciado",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004723,Hardware,Adriano Alves da Rocha,Muito Baixa,O PC compartilhado da Blossom não está ligando.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004724,Oracle NetSuite,Claudia Cristina Ferreira do Amaral,Muito Alta,"Verificar a carga incompleta de Profissionais no NetSuite (entidade Funcionários).
+O profissional “Rodrigo Alves de Oliveira” não está no NetSuite.",Fechado,Guilherme Dias Iannotti
+INC-00000004725,Repositório de arquivos - SharePoint e OneDrive,Kaique Ademilson Miranda Furtado Silva,Muito Baixa,O onedrive da Blossom não está aparecendo,Fechado,Matheus Camilo Pereira
+INC-00000004726,Teams,Isadora Nunes Côrtes Gazire,Muito Baixa,"Meu microfone parou de funcionar, então não consigo fazer chamadas.",Fechado,Matheus Camilo Pereira
+INC-00000004727,Microsoft Power BI,Denise Mariano de Souza,Média,O Power BI referente a vagas não esta atualizando.,Fechado,Bruna Cardoso de Souza
+INC-00000004728,Teams,Rosemary Rodrigues Maia,Muito Baixa,não consigo falar no teams,Fechado,Marcelo Basílio Assunção
+INC-00000004729,Oracle NetSuite,Guilherme Dias Iannotti,Muito Alta,"Na carga que realizamos em 18.03.2025 não foram gerados os dados do Contratado (PJ) “Rodrigo Alves de Oliveira”.
+Foi necessário gerar uma planilha manualmente com os dados do usuário para a carga no NetSuite.",Fechado,Bruna Cardoso de Souza
+INC-00000004730,NetSuite - Pedido de Compra,Renata Rodrigues de Sousa,Baixa,"Classificação: Compras ao Pagamento
+Serviço: Ordem de Compra
+Descrição: Informo que não estou conseguindo excluir o Recebimento do Item.",Fechado,Guilherme Dias Iannotti
+INC-00000004731,Microsoft 365 - Plano Businnes,Renata Karla Reis Campos,Muito Baixa,"Toda hora que acesso word / excel pede senha para logar no Microsoft e tem hora que não deixa eu continuar editando, tenho que salvar como o arquivo para conseguir editar, passa alguns minutos e pede senha novamente, ver imagens",Fechado,Marcelo Basílio Assunção
+INC-00000004732,Repositório de arquivos - SharePoint e OneDrive,Rafael Ivo,Muito Baixa,"Meu one drive atingiu o limite, já limpei lixeira e outros arquibos, mas não libera espaço.",Fechado,Matheus Camilo Pereira
+INC-00000004733,Hardware,Marília Carvalho Salgado Penido Salles,Baixa,"Microsoft Outlook (E-mail) aparece ""Não está respondendo"" 
+O Teams nem está abrindo também.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004734,Hardware,Débora Assis Watanabe da Mata,Baixa,"Não estou conseguindo abrir meu Illustrator no PC de torre, podem me ajudar a verificar por favor? Tentei atualizar duas vezes, mas consta falha na atualização.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004735,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Baixa,O ELFA está constantemente caindo e dando tela amarela,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004736,Foxit,Clenio Marcelo Fonseca,Muito Baixa,Solicito suporte para solucionar problema para abrir arquivos em pdf,Fechado,Matheus Camilo Pereira
+INC-00000004737,Microsoft Outlook,Alessandra Silva Berberich Baião,Muito Baixa,"e-mails estão na caixa de saída (desde ontem) e o progresso de envio/recebimento parece que está ""parado""",Fechado,Matheus Camilo Pereira
+INC-00000004738,Hardware,Felipe Ferreira de Lima,Muito Baixa,Necessário liberar espaço da máquina,Fechado,Matheus Camilo Pereira
+INC-00000004739,Foxit,Rita de Cássia Meneghin,Muito Baixa,não consigo salvar o documento em pdf,Fechado,Matheus Camilo Pereira
+INC-00000004740,Repositório de arquivos - SharePoint e OneDrive,Leticia Cristina de Abreu Dias,Muito Baixa,"Meu Ondriver está com erro , não consigo carregar pastas A Karine precisa dessas pastas para gerar admissão",Fechado,Matheus Camilo Pereira
+INC-00000004741,Hardware,Hugo de Fazio Aguiar,Muito Baixa,"Em dois dias, tive 2 eventos de desligamento repentino do computador durante uma chamada teams.,",Fechado,Marcelo Basílio Assunção
+INC-00000004742,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Muito Baixa,"Foi implementado no Elfa na avaliação de comentários do cliente, a opção de enviar para outra disciplina o comentário do cliente. Porém essa implementação não foi retratada no relatório do módulo da qualidade. Os documentos que são de ""Origem de outra disciplina"" ficam como Não se Aplica na coluna T do relatório. E no relatório não tem coluna informando que disciplina avaliou e quem avaliou. Como exemplo, no relatório em anexo, marquei 3 documentos em azul na coluna D onde os comentários foram avaliados por outra disciplina.",Suporte Inicial - Incidente,Fernando Marconi Veloso Ribeiro
+INC-00000004743,Hardware,Débora Assis Watanabe da Mata,Muito Baixa,"Prezados, bom dia! Notei que algumas das teclas do notebook Dell (BLS-ITSM-01520) não estão funcionando bem. Podem por favor verificar? Muito obrigada!",Fechado,Marcelo Basílio Assunção
+INC-00000004744,Microsoft Outlook,Luciano Ênio da Silva,Muito Baixa,"O e-mail não carrega, não atualiza às mensagens já recebidas e o histórico de subpastas criadas.",Fechado,Marcelo Basílio Assunção
+INC-00000004745,Hardware,Alexsander Ricardo da Silva,Baixa,"A máquina que fica na minha casa não esta ligando, a luz da fonte ascende por 4 segundos e depois não liga mais.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004746,Hardware,Felipe das Graças Pinto,Muito Baixa,"Data e hora do computador desatualizadas, não consigo acesso ao teams e e mail.",Fechado,Matheus Camilo Pereira
+INC-00000004747,Hardware,Matheus Wardi Cruz Andrade,Muito Baixa,Preciso que meu PC seja formatado pois hoje ele está com erro no armazenamento. Dando 0GB disponível.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004748,AutoCAD,Gustavo Ferreira de Lima,Muito Baixa,Ao abrir o programa apresenta o erro demostrado no anexo. Acontece no autocad e civil 3D,Fechado,Matheus Camilo Pereira
+INC-00000004749,e-mail,Denise Mariano de Souza,Muito Baixa,"Não consigo enviar e-mail de outras caixas de e-mail que nao sejam da minha conta principal, sempre recebo uma notificação informando que não possuo permissão para envio.",Fechado,Marcelo Basílio Assunção
+INC-00000004750,Repositório de arquivos - SharePoint e OneDrive,Maria Paula Brandão Brito Barbian,Muito Baixa,Problema de Sincronização,Fechado,Marcelo Basílio Assunção
+INC-00000004751,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Muito Baixa,"No Fluxo de Trabalho - Gestão Geral, ao selecionar mais de um cliente, o Elfa não lista os projetos de ambos os clientes.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004752,Teams,Gabriel Leão Barreto,Muito Baixa,Não reconhece fone de ouvido com entrada P2 e microfone do notebook muito baixo,Fechado,Marcelo Basílio Assunção
+INC-00000004753,Hardware,Pedro Henrique Silva Lodi,Baixa,"A máquina não liga, trava com tela azul solicitando a chave de acesso ""BitLocker"". É possível orientá-lo quanto a resolutiva via teams ou é necessário levar a máquina fisicamente a Blossom (máquina disponível na casa do colaborador _ home office)",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004754,Hardware,Francisco Eduardo de Castro Fonseca,Muito Baixa,O notebook não estava ligando mesmo segurando o botão de ligar/desligar.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004755,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Baixa,"O Serviço afetado é: Controle do fluxo de processo de desenhos de engenharia - ELFA 
+Ao criar usuário novo, se o campo Função excede o número de caracteres, o Elfa dá tela amarela em vez de informar o motivo do erro.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004756,Acrobat Reader,Renata Karla Reis Campos,Baixa,"Estou tentando acessar um documento de PDF na pasta SGI e não consigo, fala que o PDF está protegido, mas já verifiquei com o doc control e me informaram que o doc não está com proteção. Na Blossom eu consigo acessar normalmente, mas em casa não.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004757,Microsoft Outlook,Renato de Conti Gomes,Baixa,O Outlook só abre na versão WEB. Solicito alterar para abrir na versão do software,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004758,Teams,Francisco Eduardo de Castro Fonseca,Muito Baixa,"O Teams está ficando fora muitas vezes, principalmente em ligações, indica não respondendo",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004759,AutoCAD,Bruno Vieira Rodrigues,Baixa,"O Autocad está travando, quando entro no gerenciador de tarefas para fecha-lo ele trava o meu computador. Não consigo fazer mais nada além de reiniciar minha máquina.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004760,Microsoft 365 - Plano Businnes,Ana Claudia Correa Netto Ventura dos Reis Maciel,Muito Baixa,"O Fluxo de compras não está funcionando, após aprovação os e-mails não estão chegando.",Fechado,Marcelo Basílio Assunção
+INC-00000004761,Oracle NetSuite,Narrayane Martins Guimarães,Muito Alta,"Classificação: Administração
+
+Serviço: Gestão de Acessos
+
+Descrição: Prezados, boa tarde! Ao tentar acessar arquivos SPED's gerados por outros usuários é apresentado a seguinte mensagem de erro não permitindo a visualização do arquivo: 
+
+https://7337766.app.netsuite.com/core/media/media.nl 
+
+Peço a possibilidade de liberação dentro do usuário Analista Fiscal, por favor.",Fechado,Guilherme Dias Iannotti
+INC-00000004762,NetSuite - Classificação Financeira,Narrayane Martins Guimarães,Muito Alta,"Identificamos que o arquivo da ECD está sendo gerado, por padrão, com o valor ""1"" no campo 03 do registro I030 e também no campo 03 do registro J900, independentemente do número correto do livro de escrituração. No entanto, esse valor deveria ser atualizado conforme a sequência correta de livros, sendo alterado a cada nova escrituração.
+
+De acordo com o Manual de Orientação do ECD (versão atual):
+
+Na página 113, sobre o registro I030, consta a seguinte orientação:
+
+""Campo 03 (NUM_ORD) – Número de Ordem do Instrumento de Escrituração: É o número do livro. A numeração dos livros é sequencial, por tipo de livro, independentemente de sua forma (em papel, fichas ou digital). Assim, se o livro anterior, em papel, é o 50, o próximo (digital ou não) é o 51. Os Diários Auxiliares devem ter numeração própria, sequencial, por espécie, assim como o livro Razão Auxiliar. Assim, se foram utilizados 'Diário Auxiliar de Fornecedores' e 'Diário Auxiliar de Clientes', cada um terá uma sequência distinta.""
+
+Já na página 194, sobre o registro J900, é citada a seguinte regra de validação:
+
+""REGRA_IGUAL_NUM_ORD_REGI030: Verifica se o valor informado no número de ordem do instrumento de escrituração – “NUM_ORD” (Campo 02) – é igual ao número de ordem do instrumento de escrituração – NUM_ORD (Campo 03) – do registro I030. Se a regra não for cumprida, o PGE do Sped Contábil gera um erro.""",Fechado,Guilherme Dias Iannotti
+INC-00000004763,NetSuite - Fechamento Contábil,Narrayane Martins Guimarães,Muito Alta,"A Blossom possui duas filiais, Filial Barcarena e Filial Paragominas.
+Segundo o manual de Orientação da ECD é necessário que seja informado o registo 0150 e o registro filho 0180 com as informações das filiais onde o código de relacionamento será “02” seguindo a Tabela de Códigos de Participação do Participante.",Fechado,Guilherme Dias Iannotti
+INC-00000004764,NetSuite - Fechamento Contábil,Narrayane Martins Guimarães,Muito Alta,"A DMPL – Demonstração das Mutações do Patrimônio Líquido, precisa demonstrar os saldos e suas movimentações das contas classificadas como Patrimônio Líquido, no caso dessa ECD, deveriam aparecer as seguintes contas e valores:
+
+Capital Subscrito – 500.000,00
+Fundo para Futuro Aumento de Capital – 9.900.900,00
+Prejuízos acumulados – 7.397.415,73 (nessa conta precisa ficar evidenciado o saldo anterior, a movimentação do período e o saldo final).",Fechado,Guilherme Dias Iannotti
+INC-00000004765,NetSuite - Emissão do Relatório Razão,Narrayane Martins Guimarães,Muito Alta,"O registro J150 está apresentando incorretamente valores zerados para o relatório DRE.
+
+Outro ponto é que ao observarmos as descrições das contas contábeis identificamos dois erros:
+1.	Erro na nomenclatura da conta Deduções de Vendas (está sendo apresentado “Devoluções de Vendas”);
+
+2.	Não está sendo apresentado a conta Receita Financeira. Esse grupo não pode ser incluído junto com a receita de prestação de Serviços, pois não faz parte da receita operacional da empresa e por isso possui uma tributação diferente da prestação de serviço. Geralmente, na DRE, essas contas são incluídas no grupo de Resultado financeiro.
+
+Observei que dentro do NetSuite não é apresentado para seleção essa conta na “Seção do Demonstrativo do Resultado” e por consequência nenhuma conta contábil foi atrelada a ela.
+Aparece conta contábil de Despesa Financeira",Fechado,Guilherme Dias Iannotti
+INC-00000004766,Acrobat Reader,Bruno Vieira Rodrigues,Média,Este documento usa criptografia da plataforma Proteção de Informações da Microsoft,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004767,ELFA,Virgínia Campolina Brandão Rico,Média,Algumas Os estão dando o erro da imagem ao abrir,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004768,Teams,Euro Advíncula Abreu,Muito Baixa,Fica mudo e acontece com frequência e já foi consertado pela TI a 20 dias atrás,Fechado,Marcelo Basílio Assunção
+INC-00000004769,Portal de Autoatendimento,Ana Beatriz da Silveira Bessas,Média,"FLUXO APROVAÇÃO FORMS - APROVAÇÃO EXTERNA HYDRO - CANCELADO OU EM EXECUÇÃO
+
+VARIOS FORMS FORAM SOLICITADOS E ESTÃO COMO CANCELADOS OU EM EXECUÇÃO POWER AUTOMATE. ESTAMOS PERIODO DE FECHAMENTO MEDIÇÃO CLIENTE.",Fechado,Marcelo Basílio Assunção
+INC-00000004770,ELFA,Kaique Ademilson Miranda Furtado Silva,Baixa,Não consigo fazer login no ELFA,Fechado,Marcelo Basílio Assunção
+INC-00000004771,Teams,Rodrigo Alves de Oliveira,Muito Baixa,Preciso de ajuda para configuração do Teams,Fechado,Marcelo Basílio Assunção
+INC-00000004772,Hardware,Ana Paula Machado de Souza Meira,Muito Baixa,A data do computador está a de ontem 16/04 e hora está 21:18 sendo que agora é 09:38,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004773,Microsoft 365 - Plano Businnes,Rock Brunno Moreira da Silva,Baixa,"O colaborador Rock Brunno Moreira da Silva está sem acesso ao office, e-mail e sistema. Peço para entrar em contato com o mesmo no número de telefone (31) 99388-4493, que encontra-se hoje em home office.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004774,e-mail,Thiago Augusto Campos Maffra,Alta,"Prezados, bom dia. A Kinross enviou uma solicitação para assinar uma ATA de reunião via portla Docusign, entretanto, não estamos recebendo esse link para assiantura. O cliente enviou um e-mail hoje informando que ""Aparentemente os e-mails da Blossom estão com bloqueio ao Docusign."" Seria possível verificar se temos algum bloqueio no portal.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004775,Teams,Rita de Cássia Meneghin,Baixa,Sem Internet. Reconecte-se para continuar a conversa.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004776,Repositório de arquivos - SharePoint e OneDrive,Adriano Alves da Rocha,Muito Baixa,O PC na blossom não sincroniza e não estou com acesso aos documentos que estou trabalhando.,Fechado,Matheus Camilo Pereira
+INC-00000004777,Repositório de arquivos - SharePoint e OneDrive,Alexia Alcântara Ramos,Muito Baixa,Todo dia sincronizo meu computador mais as pastas so aparece online no bd.,Fechado,Matheus Camilo Pereira
+INC-00000004778,Hardware,Rafaela Vitória Oliveira Barroso,Muito Baixa,Computador não está ligando,Fechado,Matheus Camilo Pereira
+INC-00000004779,Oracle NetSuite,Narrayane Martins Guimarães,Média,"Classificação: Localização Brasileira
+
+Serviço: SPED Contribuições
+
+Descrição: Prezados, boa tarde! O arquivo gerado não informa os registros 1300 e 1700. Nesses registros são informados as retenções das notas de faturamento.",Investigação e Diagnóstico - Incidente,Guilherme Dias Iannotti
+INC-00000004780,Revit 2024,Lucas Terra Duarte,Muito Baixa,Estou sem acesso aos modelos,Fechado,Marcelo Basílio Assunção
+INC-00000004781,Acesso (conexão) Internet Belo Horizonte,Adriano Alves da Rocha,Muito Baixa,Não consigo acesso aos documentos da rede. O documento é multi disciplinar e não podemos salvar uma copia.,Fechado,Marcelo Basílio Assunção
+INC-00000004782,Teams,Marcus Vinícius Ferreira Lemes,Baixa,"AUDIO NÃO FUNCIONA. EM REUNIÃO COM CLIENTE, NÃO CONSEGUI ESCUTAR E ELES NÃO ME OUVIAM",Fechado,Matheus Camilo Pereira
+INC-00000004783,Microsoft 365 - Plano Businnes,Éricka Gonçalves de Paula Menegaz,Baixa,"Ao tentar acessar o Visio Online, a partir do ""Blossom Digital"" -> Canto superior esquerdo (quadrado formado por 9 pontinhos) -> Mais Aplicativos, fica pedindo recurrentemente o logon na minha conta Blossom e não abre a lsita de aplicativos.
+
+Não consigo abrir a lista de aplicativos disponíveis para assinatura Business Premium.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004784,Hardware,Islanderson Marcos de Oliveira Neto,Muito Baixa,"Meu Monitor depois qu evoltei do Almoço Hoje 29/04/2025, não esta mais reconhecendo o HDMI e não estou conseguindo utilizalo",Fechado,Marcelo Basílio Assunção
+INC-00000004785,Hardware,Isadora Nunes Côrtes Gazire,Muito Baixa,"Meu computador tem dado um aviso de disco cheio, portanto, peço o apoio de vocês para realizar uma limpeza da minha máquina. Muito obrigada!",Fechado,Matheus Camilo Pereira
+INC-00000004786,Sistema Operacional,Rodrigo Thomaz Dias,Muito Baixa,Correcao hora automatica do NOTEBOOK.,Fechado,Marcelo Basílio Assunção
+INC-00000004787,AutoCAD,Fábio Nilson Jonsson,Muito Baixa,"após instalação do Civil 3D, o Auto Cad não esta funcionando",Fechado,Marcelo Basílio Assunção
+INC-00000004788,Acrobat Reader,Débora Assis Watanabe da Mata,Muito Baixa,"Verificar assinatura Adobe Ilustrator -  Bom dia, pessoal! Por favor verifiquem se está tudo certo com a assinatura do AI pois apareceu este pop-up pra mim. Agradeço desde já e aguardo. Muito obrigada!",Fechado,Matheus Camilo Pereira
+INC-00000004789,Automação Formulário,Franciele Leite de Lima Oliveira,Muito Alta,"Aproveito a oportunidade para sinalizar que percebi problema em nosso FORMS desde ontem no período da tarde, os FORMS estão sendo preenchidos, porém não estão entrando em fluxo para aprovação. Acabei de fazer o teste novamente (como em anexo) e sem sucesso.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004790,Acrobat Reader,Virgínia Campolina Brandão Rico,Muito Baixa,Não consigo converter documentos em Pdf assinar e enviar ao cliente. Plataforma diz que o meu pdf não é licenciado,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004791,Repositório de arquivos - SharePoint e OneDrive,Andre Luiz de Oliveira Costa,Muito Baixa,"Estou sem o acesso às pastas do Gente e Gestão. Consigo acessar, mas as pastas aparecem vazias e novos documentos não aparecem.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004792,AutoCAD,Renata Karla Reis Campos,Baixa,Ao abrir o Autocad está dando fatal error,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004793,Teams,Francisco Eduardo de Castro Fonseca,Muito Baixa,"meu computador não está funcionando direito, principalmente o teams",Fechado,Marcelo Basílio Assunção
+INC-00000004794,ELFA,Alexia Alcântara Ramos,Baixa,"O Administrativo alega não esta recebendo emails do ELFA. é imprescindível que eles recebam , pois precisam cadastra o profissional na Blossom , peço TI para verificar antes de ver com ELFA. Pois alguns eu encontro outros não.",Suporte Inicial - Incidente,Fernando Marconi Veloso Ribeiro
+INC-00000004795,Hardware,Rodrigo Nunes Braga,Muito Baixa,"Computador dando mensagem de falta de espaço em disco.
+Serviço Associado: Falta de espaço em disco",Fechado,Marcelo Basílio Assunção
+INC-00000004796,Oracle NetSuite,Narrayane Martins Guimarães,Média,"Classificação: Localização Brasileira
+
+Serviço: SPED Reinf.
+
+Descrição: Prezados, bom dia! Geramos o EFD Reinf no ambiente Produção, porém o sistema não está atualizando as transações quando corrigimos os lançamentos das notas fiscais. Diante disso a cada nova correção, eu excluo as transações para gerar um novo EFD Reinf do período. Fiz isso para conseguir incluir o registro 2010. Porém ao identificar erro no registro 4020, corrigi as transações, mas não consegui remover as transações do registro 2010 para reiniciar o processo. Solicito apoio.",Suporte Inicial - Incidente,Guilherme Dias Iannotti
+INC-00000004797,AutoCAD,João Paulo Teixeira Oliveira Rodrigues Fulgêncio,Muito Baixa,Preciso de algum programa da Autodesk que abra arquivos formato dwg que não seja o Autocad. No meu entendimento poderia ser o Civil 3D.,Fechado,Matheus Camilo Pereira
+INC-00000004798,ELFA,Virgínia Campolina Brandão Rico,Muito Baixa,Timesheet - ELFA  - Profissionais estão reclamando que as atualizações que estão sendo feitas para inclusão de pessoas e disciplinas não estão sendo refletidas no time sheet.,Suporte Inicial - Incidente,Fernando Marconi Veloso Ribeiro
+INC-00000004799,Repositório de arquivos - SharePoint e OneDrive,Alexsander Ricardo da Silva,Muito Alta,Não estou conseguindo conectar na rede Blossom,Fechado,Matheus Camilo Pereira
+INC-00000004800,Repositório de arquivos - SharePoint e OneDrive,Bruno César Silva Passos,Muito Alta,Onedrive não conecta na conta,Fechado,Matheus Camilo Pereira
+INC-00000004801,Teams,Carolina Gabriel da Silva,Muito Baixa,"Microsoft Teams  está como o ""Serviço de Áudio não está em execução""",Fechado,Marcelo Basílio Assunção
+INC-00000004802,AutoCAD,Carlos Maurício de Oliveira Monteiro,Baixa,"Erro de Licença Autocad 
+Constantemente aparece a mensagem de erro de licença e o AutoCad é fechado automaticamente 5",Fechado,Marcelo Basílio Assunção
+INC-00000004803,AutoCAD,Renata Karla Reis Campos,Baixa,Está dando fatal error quando abro o AutoCad,Fechado,Marcelo Basílio Assunção
+INC-00000004804,"Autodesk - Architecture, Engineering & Construction Collection",José Machado de Queiroz Neto,Muito Baixa,"Versão do infraworks obsoleta, preciso atualizar para versão 2024",Fechado,Marcelo Basílio Assunção
+INC-00000004805,AutoCAD,Reginaldo Soares Barbosa,Baixa,"pedindo atualização do connector 
+AutoCAD 2024",Fechado,Marcelo Basílio Assunção
+INC-00000004806,Sistema Operacional,Renato de Conti Gomes,Baixa,"Liberar espaço de ""disco"". 
+Notebook está lotado.... teremos que tirar alguns aplicativos que não estão sendo utilizados.",Fechado,Marcelo Basílio Assunção
+INC-00000004807,Acesso (conexão) Internet Belo Horizonte,Leticia Cristina de Abreu Dias,Baixa,"O computador da Alexia esta sem internet , tanto no wifi e no cabo de rede.",Fechado,Matheus Camilo Pereira
+INC-00000004808,Hardware,Vinícius Jorge de Vasconcelos,Muito Baixa,"O Serviço afetado é: Webcam integrada 
+Informações: A Webcam não está funcionando",Fechado,Marcelo Basílio Assunção
+INC-00000004809,Repositório de arquivos - SharePoint e OneDrive,Bruno César Silva Passos,Baixa,Repositório de arquivos - SharePoint e OneDrive,Fechado,Marcelo Basílio Assunção
+INC-00000004810,ELFA,Christhianne Espíndola Couto Nascimento Cordeiro,Baixa,"Regra de validação para comentários improcedentes no sistema Elfa:
+
+Durante a avaliação de comentários pelo Líder ou Coordenador:
+
+Se o comentário for marcado como ""improcedente"" e a opção ""Atender?"" for ""Não"", então o sistema deve permitir que a estimativa de horas (HH) seja igual a 0.
+
+Se o comentário for marcado como ""improcedente"" e a opção ""Atender?"" for ""Sim"", então a estimativa de horas (HH) deve ser obrigatoriamente maior que 0.",Suporte Inicial - Incidente,Fernando Marconi Veloso Ribeiro
+INC-00000004811,Hardware,Leandro Beckler Passos,Baixa,"PC não liga, trava na tela de BIOS após queda de energia",Fechado,Marcelo Basílio Assunção
+INC-00000004812,Repositório de arquivos - SharePoint e OneDrive,Adriano Alves da Rocha,Muito Baixa,Não aparece o atalho da rede Blossom conforme imagem. O atalho do meu OneDrive não está sincronizando direito.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004813,Automação Formulário,Andre Luiz de Oliveira Costa,Baixa,O forms do Avaliação de Reação e de Abertura de Treinamento não estão chegando no email.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004814,Hardware,João Vítor Faria Arantes,Muito Baixa,"Fone de ouvido JBL parou de funcionar (microfone). Ao testar outro de mesmo modelo de outro colaborador, o problema persistiu.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004815,Hardware,Leandro Beckler Passos,Baixa,"Na quinta e sexta, dias 15 e 16 de maio o computador apresentou falhas durante a inicialização. Foi solicitado um apoio para solução, realizadas correções, entretanto o computador ainda apresenta avarias. Solicito apoio para resolução.",Fechado,Marcelo Basílio Assunção
+INC-00000004816,Automação Formulário,Tayna Cláudia da Silva,Alta,"Nós do apoio aqui na Albras, estamos enfrentando problemas no recebimento de formulários enviados pelos colaboradores. Eles relatam que concluem o preenchimento, porém não recebemos a notificação de abertura em nosso e mail, nem eles recebem a confirmação automática.
+Exemplo: o colaborador Paulo Sérgio enviou o Formulário de Jornada Diferenciada três vezes, mas nenhum desses envios chegou ao em nosso e-mail ( meu, da Suzana e da Luma ) Segue, em anexo, o print da última tentativa (também submetida por mim em meu computador) que não foi entregue.
+Solicito, por gentileza, verificação urgente do fluxo de envio e recebimento dos Forms, bem como das confirmações automáticas aos usuários.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004817,Civil 3D 2024,Luis Filipe Pinheiro Nunes Baia,Baixa,A barra de comandos não aparece,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004818,Hardware,Christhianne Espíndola Couto Nascimento Cordeiro,Muito Baixa,"Notebook está travando, com lentidão mesmo desligando/reiniciando, e desligando quando baixa a tela, mesmo que a opção está não desligar.",Fechado,Marcelo Basílio Assunção
+INC-00000004819,Hardware,Thamires Estanislau Dantas,Baixa,Meu computador está reiniciando há 30 minutos e não quer ir para a tela inicial,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004820,Hardware,José Gomes Rodrigues,Muito Baixa,Fone de ouvido não funciona,Fechado,Marcelo Basílio Assunção
+INC-00000004821,Hardware,Ana Beatriz da Silveira Bessas,Baixa,MSG DE MEMORIA DA MÁQUINA CHEIA MAQUINA LENTA E TRAVANDO,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004822,Teams,Márcia Aparecida Cunha Alves,Muito Baixa,Lentidão e por muitas vezes as mensagens que mando não são entregues. Ver exemplo em anexo.,Fechado,Marcelo Basílio Assunção
+INC-00000004823,Oracle NetSuite,Luciano Barsi,Alta,Instabilidade/Indisponibilidade do acesso ao ambiente de Produção do Oracle Net Suite,Fechado,Marcelo Basílio Assunção
+INC-00000004824,Hardware,Márcia de Paula Wiesen,Muito Baixa,Tela fica negra somente com uma faixa muito fina na parte superior \Desligo acionando o Botão power durante muito tempo. Depois volta a funcionar novamente. Começou a apresentar diariamente. - Tenho filme mas não consigo carregar nesta solicitação.,Fechado,Matheus Camilo Pereira
+INC-00000004825,Acesso (conexão) Internet Belo Horizonte,Éricka Gonçalves de Paula Menegaz,Baixa,Não conecta para terceiros. Não pede o token e dá erro para acessar a página.,Fechado,Marcelo Basílio Assunção
+INC-00000004826,Hardware,Matheus de Barros Praxedes,Muito Baixa,Foi relatado pelos profissionais que o Desktop que se encontra posicionado na estação de Trabalho M94 não está funcionando corretamente. Solicito por gentileza avaliar o computador para liberar para uso dos profissionais que trabalham em regime híbrido e precisam usá-lo quando vem ao escritório.,Fechado,Marcelo Basílio Assunção
+INC-00000004827,Hardware,Felipe Ferreira de Lima,Muito Baixa,"Espaço da máquina  - Agora que forma liberar as licenças CAD, desinstalar DWG true view para liberar espaço da máquina.",Fechado,Matheus Camilo Pereira
+INC-00000004828,Hardware,Marcelo Siqueira de Castro,Muito Baixa,"Limpeza de disco - Estou com problemas no meu computador em questão de memória meu computador acredito que seja de 8gb, O One Drive da Anglo encheu a memoria dele. 
+Devido a essa questão o meu computador esta travando porque não tem espaço para atualizar os arquivos.",Fechado,Matheus Camilo Pereira
+INC-00000004829,Hardware,Gustavo Matoso,Muito Baixa,Reparo/ avaliação de performance do notebook. Notebook com lentidão e travamentos constantes.,Fechado,Marcelo Basílio Assunção
+INC-00000004830,Hardware,Islanderson Marcos de Oliveira Neto,Baixa,"Formatar o Notebook, não esta conseguindo reiniciar, também substituir a bateria do mesmo, pois esta dando que a bateria esta precisando carregar mesmo ligado na energia.",Fechado,Matheus Camilo Pereira
+INC-00000004831,Microsoft Outlook,João Vítor Faria Arantes,Muito Baixa,"Recebido e-mail externo aparentemente estranho, enviado por lusha@i.lushanotice.com.",Fechado,Marcelo Basílio Assunção
+INC-00000004832,Hardware,Diego Falqueto de Lima,Muito Baixa,Mouse com defeito.,Fechado,Matheus Camilo Pereira
+INC-00000004833,Hardware,Kaique Ademilson Miranda Furtado Silva,Baixa,"Serviço Associado: Microfone 
+A maquina não reconhece o microfone, já tentei 3 fones diferentes mas nada muda.",Fechado,Marcelo Basílio Assunção
+INC-00000004834,ELFA,Adriano Alves da Rocha,Muito Alta,ELFA não conectando,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004835,ELFA,Felipe Ferreira de Lima,Muito Alta,"Alguns colaboradores relataram instabilidade do ELFA, entre eles (Felipe das Graças, Adriano Rocha, Emerson Santana, Leandro Beckler.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004836,ELFA,Gustavo Ferreira de Lima,Muito Alta,ELFA sem acesso,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004837,ELFA,Alexia Alcântara Ramos,Muito Alta,ELFA-DOC não está acessando para realizar admissões,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004838,ELFA,Reginaldo Soares Barbosa,Muito Alta,O ELFA não entra,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004839,ELFA,Carlos Gabriel de Azevedo Lima,Muito Alta,Entrei normal igual todo dia para apontar as horas e caiu nessa página de erro,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004840,ELFA,Hellen Caroline de Morais Carleial,Muito Alta,ELFA fora do ar,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004841,Hardware,João Vítor Faria Arantes,Baixa,"Frequentemente o computador vem ocupando seu armazenamento de forma muito rápida. Preciso novamente de uma ""limpeza"" para que a ausência de espaço em disco não interfira com o funcionamento de outros programas.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004842,Hardware,Thiago Martins Moura Lemos Carneiro,Baixa,"Memória RAM e processamento sempre trabalhando sempre no gargalo (acima de 90%). Todos os aplicativos ficam lentos e ""tela azul"" ocorre frequentemente. Mouse com duplo clique, impactando diretamente na produtividade.",Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004843,Acesso (conexão) Internet Belo Horizonte,Matheus Camilo Pereira,Muito Alta,Queda de energia no edificio sede da Blossom,Fechado,Matheus Camilo Pereira
+INC-00000004844,Microsoft Outlook,Carlos Maurício de Oliveira Monteiro,Muito Baixa,"O outlook, ele não está conectando com o servidor e não estou recebendo e-mails",Fechado,Marcelo Basílio Assunção
+INC-00000004845,Microsoft Power BI,Bruna Cardoso de Souza,Baixa,"Alexandre Maurício Veiga Castro não consegue ter acesso ao relatório disponibilizado no nosso ambiente do power BI. O erro é na hora de autenticar no app do authenticator, quando insere o código, dá erro.",Fechado,Matheus Camilo Pereira
+INC-00000004846,Repositório de arquivos - SharePoint e OneDrive,Voney Franco de Araújo,Baixa,Note travando e aplicativos sem sua funcionalidade total e sharepoint lotado,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004847,Hardware,Islanderson Marcos de Oliveira Neto,Baixa,"Meu Segundo Monitor esta ligando , mas não esta reconhecendo, tentei testar outro cabo de HDMI, mas mesmo assim não esta reconhecendo Notebook.",Fechado,Marcelo Basílio Assunção
+INC-00000004848,Automação Formulário,Sheilla Araujo,Alta,Verifiquei que ocorreram 2 falhas de fluxo de aprovação referente a evolução salarial dos dias 28 e 30/05. Peço prioridade no assunto. Abri como incidente uma vez que o fluxo funciona normalmente e ocorreu esse erro no fluxo.,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004849,Teams,Gustavo Matoso,Muito Baixa,Corrigir problema técnico com os drivers de audio do notebook.,Fechado,Matheus Camilo Pereira
+INC-00000004850,Microsoft Outlook,Kamille Victorya Severo Figueiredo,Muito Baixa,Não consigo ver os meus emails recebidos na caixa de entrada,Fechado,Matheus Camilo Pereira
+INC-00000004851,Acrobat Reader,Danilo Moreira Bittencourt,Baixa,"Ao tentar salvar documentos sou solicitado a logar na conta que quero utilizar, coloco as informações e recebo mensagem de erro.",Fechado,Marcelo Basílio Assunção
+INC-00000004852,Oracle NetSuite,Narrayane Martins Guimarães,Alta,"Classificação: Localização Brasileira
+Serviço: SPED Reinf.
+Descrição: Não estamos conseguindo enviar a EFD Reinf. Está sendo apresentado a seguinte mensagem: 
+Ocorreu um erro de pesquisa: Record 'customrecord_brl_country_code_mapping' was not found.",Aberto,Guilherme Dias Iannotti
+INC-00000004853,"Autodesk - Architecture, Engineering & Construction Collection",Eduardo Jose Machado,Muito Alta,"Até semana passada estávamos utilizando sem problema o software RELUX que desenvolve memórias de cálculo de iluminação que são aplicadas em nossos projetos elétricos, sempre utilizando a versão FREE deste software.
+
+Porém esta semana, já não conseguimos mais utilizar este software na versão FREE devido a uma mensagem que aparece quando do desenvolvimento dos cálculos e que aponta para a necessidade de aquisição de uma licença.",Fechado,Marcelo Basílio Assunção
+INC-00000004854,Hardware,Maria Paula Brandão Brito Barbian,Baixa,"Memória cheia 
+Esta bastante Lento",Fechado,Marcelo Basílio Assunção
+INC-00000004855,Hardware,Rafaela Vitória Oliveira Barroso,Baixa,Fone de ouvido não funciona,Fechado,Marcelo Basílio Assunção
+INC-00000004856,Hardware,Gustavo Matoso,Baixa,"Serviço Associado: audio notebook
+O audio do notebook não funciona corretamente no Teams",Fechado,Marcelo Basílio Assunção
+INC-00000004857,AutoCAD,Mardey de Carvalho Freitas,Baixa,"Ao iniciar o autocad apresenta a mensagem  ""Licensing Error""",Fechado,Matheus Camilo Pereira
+INC-00000004858,AutoCAD,Bruno Gustavo Bernardes Pereira,Alta,"Novamente tivemos problemas de acesso no Autocad dos profissionais constantes no nosso contrato da Samarco. (Alyssom, Mardey, Tarley, Carlos e Luiz.",Fechado,Matheus Camilo Pereira
+INC-00000004859,Hardware,Alexsander Ricardo da Silva,Baixa,A máquina não está ligando,Fechado,Matheus Camilo Pereira
+INC-00000004860,AutoCAD,Mardey de Carvalho Freitas,Baixa,"Problema na licença, aplicativo não se conecta.",Fechado,Marcelo Basílio Assunção
+INC-00000004861,AutoCAD,Luiz Felipe Hilario Figueiredo,Baixa,"Erro de licença, Software não abre",Fechado,Marcelo Basílio Assunção
+INC-00000004862,Repositório de arquivos - SharePoint e OneDrive,Adriano Alves da Rocha,Baixa,O one drive da Blossom não está sincronizando. O icone de sincronização não aparece. Já no onedrive pessoal está sincronizando (o que não devemos usar).,Fechado,Marcelo Basílio Assunção
+INC-00000004863,VPN Blossom,Marcelo Basílio Assunção,Muito Alta,"Reconfiguração da VPN – Exclusão acidental de usuários e recriação da estrutura de acesso
+
+Descrição: Durante atividades administrativas realizadas no ambiente do Pritunl (gerenciador de perfis da VPN OpenVPN), a estrutura anterior de usuários foi removida acidentalmente por mim, Marcelo Basílio. A ação resultou na perda de todos os acessos de VPN anteriormente configurados.",Fechado,Marcelo Basílio Assunção
+INC-00000004864,Repositório de arquivos - SharePoint e OneDrive,Felipe Ferreira de Lima,Muito Baixa,"O Serviço afetado é: Lixeira/itens excluídos (sem a ação do usuário) 
+Ao esvaziar a lixeira da minha máquina tenho notado algumas ""pastas estranhas"", as quais eu não exclui. Ao olhar as propriedades, parecem ser pastas vazias, mas pastas comuns aos demais usuários (locais comuns do sharepoint), ver print anexo com exemplo das patas. Por serem pastas vazias e estar ocorrendo de maneira ""automática"", estou entendo que é uma questão de liberação de espaço/dessincronizarão. Favor confirmar meu entendimento. Obrigado.",Fechado,Marcelo Basílio Assunção
+INC-00000004865,Teams,Virgínia Campolina Brandão Rico,Muito Baixa,"Microsoft Outlook (E-mail) 
+Só consigo marcar reunião via skipe.",Fechado,Marcelo Basílio Assunção
+INC-00000004866,Teams,Gabriel Leão Barreto,Muito Baixa,"Problemas com microfone, fica muito baixo e as pessoas não conseguem ouvir",Fechado,Matheus Camilo Pereira
+INC-00000004867,Gerenciamento de Serviços,Guilherme Dias Iannotti,Média,Contratação de software pela Blossom sem seguir o processo de homologação de Software BL0000-TI-PRC-0002 - Política de Software Rev.04,Fechado,Fernando Marconi Veloso Ribeiro
+INC-00000004868,Gerenciamento de Serviços,Guilherme Dias Iannotti,Média,Contratação de software pela Blossom sem seguir o processo de homologação de Software BL0000-TI-PRC-0002 - Política de Software Rev.04,Suporte Inicial - Incidente,Fernando Marconi Veloso Ribeiro
+INC-00000004869,e-mail,Rodrigo Nunes Braga,Muito Baixa,"Não consigo acessar o anexo do e-mail, parece ter sido bloqueado por diretivas de segurança.",Fechado,Marcelo Basílio Assunção
